@@ -28,6 +28,10 @@
 - Demo de com crear i formatar un README.md.
 
 # Introducció 
+- Markdown és un llenguatge d'edició de text.
+- No es necessar-hi instalar cap paquet al dispositiu.
+- Permet una comprensio molt més clara dels textos.
+- Funciona principalment per fer documents simples o documentació.
 
 # Com utilitzar markdown dins de GitHub. Exemples visuals
 [Exemple1 - Documentació](https://github.com/AvenproTeam/AvenBonva/tree/main/schematics/Taules%20de%20Pin)
